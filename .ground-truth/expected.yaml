@@ -1,0 +1,9 @@
+id: P02-E02
+repository: aci-gt-p02-prs-collab-only
+visibility: public
+stage: P0
+rule: P0.2
+kind: experiment
+atomic_variable: "PR creation policy 为 COLLABORATORS_ONLY"
+expected_status: BLOCKED
+setup: AUTO_GRAPHQL
