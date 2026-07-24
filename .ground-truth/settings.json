@@ -1,0 +1,14 @@
+{
+  "nameWithOwner": "xiangmaster/aci-gt-p02-prs-collab-only",
+  "visibility": "PUBLIC",
+  "hasIssuesEnabled": true,
+  "hasPullRequestsEnabled": true,
+  "issueCreationPolicy": "ALL",
+  "pullRequestCreationPolicy": "COLLABORATORS_ONLY",
+  "defaultBranchRef": {
+    "target": {
+      "oid": "da8f666c8da8a3292da8ffeaa4bc0534ff3a98f9"
+    }
+  },
+  "interaction_limit": {}
+}
